@@ -49,5 +49,6 @@ for page in range(1,pages):
 
       mydata = patent_number.text +'\t'+ description.text + '\n\n' + abstract.text + '\n\n' + paragraph.text + '\n' + Application_info.text
       F.write(mydata+'\n\n')
-    
+  
+#close the driver once every link and data is copied from all the url
 driver.close()
