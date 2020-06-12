@@ -1,0 +1,936 @@
+1	Programmable radio frequency waveform generator for a synchrocyclotron
+
+Abstract
+
+ A synchrocyclotron .[.comprises.]. .Iadd.includes .Iaddend.a resonant
+     circuit that includes electrodes having a gap therebetween across the
+     magnetic field. An oscillating voltage input, having a variable amplitude
+     and frequency determined by a programmable digital waveform generator
+     generates an oscillating electric field across the gap. The
+     synchrocyclotron can include a variable capacitor in circuit with the
+     electrodes to vary the resonant frequency. The synchrocyclotron can
+     further include an injection electrode and an extraction electrode having
+     voltages controlled by the programmable digital waveform generator. The
+     synchrocyclotron can further include a beam monitor. The synchrocyclotron
+     can detect resonant conditions in the resonant circuit by measuring the
+     voltage .[.and or.]. .Iadd.and/or .Iaddend.current in the resonant
+     circuit, driven by the input voltage, and adjust the capacitance of the
+     variable capacitor or the frequency of the input voltage to maintain the
+     resonant conditions. The programmable waveform generator can adjust at
+     least one of the oscillating voltage input, the voltage on the injection
+     electrode and the voltage on the extraction electrode according to beam
+     intensity and in response to changes in resonant conditions.
+
+Inventors: Sliski; Alan (Lincoln, MA), Gall; Kenneth (Somerville, MA)
+Applicant:
+Name City State Country Type
+
+Mevion Medical Systems, Inc.
+Littleton
+MA
+US
+Assignee: Mevion Medical Systems, Inc. (Littleton, MA)
+Appl. No.: 15/429,078
+Filed: February 9, 2017
+
+2	Encoding device and decoding device
+
+Abstract
+
+ An encoding device (200) includes an MDCT unit (202) that transforms an
+     input signal in a time domain into a frequency spectrum including a lower
+     frequency spectrum, a BWE encoding unit (204) that generates extension
+     data which specifies a higher frequency spectrum at a higher frequency
+     than the lower frequency spectrum, and an encoded data stream generating
+     unit (205) that encodes to output the lower frequency spectrum obtained
+     by the MDCT unit (202) and the extension data obtained by the BWE
+     encoding unit (204). The BWE encoding unit (204) generates as the
+     extension data (i) a first parameter which specifies a lower subband
+     which is to be copied as the higher frequency spectrum from among a
+     plurality of the lower subbands which form the lower frequency spectrum
+     obtained by the MDCT unit (202) and (ii) a second parameter which
+     specifies a gain of the lower subband after being copied.
+
+Inventors: Tsushima; Mineo (Kyoto, JP), Norimatsu; Takeshi (Hyogo, JP), Nishio; Kosuke (Osaka, JP), Tanaka; Naoya (Osaka, JP)
+Applicant:
+Name City State Country Type
+
+DOLBY INTERNATIONAL AB
+Amsterdam Zuidoost
+N/A
+NL
+Assignee: DOLBY INTERNATIONAL AB (Amsterdam Zuidoost, NL)
+Appl. No.: 16/160,017
+Filed: October 15, 2018
+
+3	Integrated chemical looping air separation in large-scale oxy-fuel plants
+
+Abstract
+
+ An integrated chemical looping air separation unit (5) in a large-scale
+     oxy-fuel power generating plant takes a portion of recycled flue gas (6)
+     via a recycling conduit (7) through a heat exchanger (8) to a reduction
+     reactor (9). The reduction reactor (9) exchanges oxidized metal oxide
+     with an oxidation reactor (11) via transfer means (10) which return
+     reduced metal oxide from the reduction reactor (9) to the oxidation
+     reactor (11). This enables the reduction reactor (9) to feed a mixture of
+     oxygen and recycled flue gas into the boiler (13) of the power generating
+     plant in a more energy efficient manner than conventional oxy-fuel power
+     plants using air separation units.
+
+Inventors: Moghtaderi; Behdad (Callaghan, AU), Wall; Terry Fitzgerald (Callaghan, AU), Shah; Kalpit Vrajeshkumar (Callaghan, AU)
+Applicant:
+Name City State Country Type
+
+NEWCASTLE INNOVATION LIMITED
+Callaghan, New South Wales
+N/A
+AU
+Assignee: THE UNIVERSITY OF NEWCASTLE (Callaghan, New South Wales, AU)
+Appl. No.: 15/352,554
+Filed: November 15, 2016
+PCT Filed: September 21, 2012
+PCT No.: PCT/AU2012/001136
+371(c)(1),(2),(4) Date: March 21, 2014
+PCT Pub. No.: WO2013/040645
+PCT Pub. Date: March 28, 2013
+
+4	Electronic computer with icon
+
+Claims
+
+ 
+Inventors: Hiyama; Marina (Atsugi, JP)
+Applicant:
+Name City State Country Type
+
+SEMICONDUCTOR ENERGY LABORATORY CO., LTD.
+Kanagawa
+N/A
+JP
+Assignee: Semiconductor Energy Laboratory Co., Ltd. (Kanagawa-ken, JP)
+Appl. No.: 35/506,056
+Filed: May 16, 2018
+
+5	Exhaust manifold shield
+
+Claims
+
+ 
+Inventors: Hudnall; Coy (Bowling Green, KY), Pounds; James J. (Auburn, KY), Grillot; Timothy A. (Alvaton, KY)
+Applicant:
+Name City State Country Type
+
+Holley Performance Products, Inc.
+Bowling Green
+KY
+US
+Assignee: Holley Performance Products, Inc. (Bowling Green, KY)
+Appl. No.: D/677,770
+Filed: January 23, 2019
+
+6	Systems and methods that use thermal energy transfer devices to reduce thermal energy within environments
+
+Abstract
+
+ Systems and methods that use thermal energy transfer devices to reduce
+     thermal energy within environments are disclosed. According to an aspect,
+     a method includes using a cool sink to transfer thermal energy from an
+     environment. The method also includes using a thermal energy transfer
+     device to transfer the thermal energy to liquid within a conduit.
+     Further, the method includes transporting the liquid containing the
+     transferred thermal energy away from the environment such that the
+     thermal energy within the environment is reduced.
+
+Inventors: Heller; Matthew Aaron (Raleigh, NC), Holland; Jeffrey Scott (Raleigh, NC)
+Applicant:
+Name City State Country Type
+
+Lenovo Enterprise Solutions (Singapore) Pte. Ltd.
+New Tech Park
+N/A
+SG
+Assignee: Lenovo Enterprise Solutions (Singapore) Pte. Ltd. (New Tech Park, SG)
+Family ID: 1000004851964
+Appl. No.: 15/935,481
+Filed: March 26, 2018
+
+7	Self-adjustable heat spreader system for set-top box assemblies
+
+Abstract
+
+ Systems, electronic devices, and methods are directed to a
+     self-adjustable heat spreader. A spring system may include one or more
+     spring members and a contact surface adapted to contact a circuit board
+     component. Each spring member may include a thermally conductive
+     material. A thermal spreader plate may be coupled to the one or more
+     spring members. The spring system and the thermal spreader plate may be
+     configured to allow movement, with respect to the thermal spreader plate
+     along multiple axes, of one or more portions of the one or more spring
+     members proximate to the thermal spreader plate when the contact surface
+     is pressed against the circuit board component and the spring system
+     transitions from a first state to a compressed state. The contact surface
+     and the spring system may be configured to transfer heat between the
+     circuit board component and the thermal spreader plate.
+
+Inventors: Trygubova; Svitlana (Lakewood, CO), Kirby; Morgan (Palmer Lake, CO)
+Applicant:
+Name City State Country Type
+
+DISH Technologies L.L.C.
+Englewood
+CO
+US
+Assignee: DISH Technologies L.L.C. (Englewood, CO)
+Family ID: 1000004851963
+Appl. No.: 16/386,065
+Filed: April 16, 2019
+
+8	Configurable fuse box for modular data center
+
+Abstract
+
+ A power distribution system, modular data center (MDC), and method
+     provide a permanent electrical enclosure sized for an eventual maximum
+     load allowing for flexible ampacity and concurrent upgradeability. A
+     busway is mountable in a MDC to carry three-phase AC electrical power. A
+     three-phase electrical cable is rated to carry a maximum power value to
+     connect to a power distribution unit (PDU) of a first rack-based
+     information handling system (IHS) of the MDC. A bus plug is engaged to
+     the first busway and has at least three conduction paths that
+     electrically connect to the three-phase electrical cable. Interchangeable
+     fused switch modules of different power ratings are selectable to be
+     received in a fused switch module receptacle in the bus plug. A reduced
+     power fused switch module for initial power capacity of the MDC can later
+     be upgraded to a maximum power rating without changing anything but the
+     fused switch module.
+
+Inventors: Bailey; Mark M. (Round Rock, TX), Middleton; Anthony P. (Cedar Park, TX)
+Applicant:
+Name City State Country Type
+
+DELL PRODUCTS, L.P.
+Round Rock
+TX
+US
+Assignee: Dell Products, L.P. (Round Rock, TX)
+Family ID: 1000004851957
+Appl. No.: 15/960,415
+Filed: April 23, 2018
+
+9	Sensory device protector
+
+Abstract
+
+ The present invention provides sensory device combinations, such as a
+     portable touch screen smart phone, which possesses unexpectedly superior
+     protection against impact damage. The sensory device combinations include
+     a unique class of thermoset viscoelastomeric protectors containing
+     epoxidized vegetable oils as a predominant thermosetting reaction media
+     reactant. The thermoset viscoelastomeric protector possesses fluid-like
+     compression and rebounding characteristics, and may be suitably
+     positioned so as to protect any delicate sensory device component from
+     impact damage. The viscoelastomeric protector may be provided in a form
+     substantially free from aberration and thus it is perfectly compatible
+     for use as a visually transparent component of a touch screen device. The
+     viscoelastomeric protector can also serve as a heat sump.
+
+Inventors: Goodenough; Troy (Mindoro, WI)
+Applicant:
+Name City State Country Type
+
+Goodenough; Troy
+Mindoro
+WI
+US
+Family ID: 1000002748060
+Appl. No.: 15/731,483
+Filed: June 19, 2017
+
+10	Electrical junction box with removable sealing cover
+
+Abstract
+
+ An electrical assembly may include an enclosure having a base portion to
+     attach the enclosure to a panel and a heat dissipating portion opposite
+     the base portion, a circuit board having a first thermal interface on a
+     first side of the board, a second thermal interface on a second side of
+     the board, and a thermally conductive portion to provide enhanced thermal
+     conduction between the first thermal interface and the second thermal
+     interface, a power electronic device having a thermal interface coupled
+     to the first thermal interface of the circuit board, a heat spreader
+     arranged to transfer heat to the heat dissipating portion of the
+     enclosure, and a thermally conductive pad coupled between the second
+     thermal interface of the circuit board and the heat spreader.
+
+Inventors: Dorenkamp; James (Portland, OR), Pruett; Henry F. (North Bend, OR), Naiknaware; Ravindranath (Portland, OR)
+Applicant:
+Name City State Country Type
+
+SunPower Corporation
+San Jose
+CA
+US
+Assignee: SunPower Corporation (San Jose, CA)
+Family ID: 1000004851954
+Appl. No.: 15/682,708
+Filed: August 22, 2017
+
+11	Mounting structure for module in electronic device
+
+Abstract
+
+ An electronic device is provided. The electronic device includes a
+     display including a display area and a connecting area extending from one
+     side of the display area, a flexible printed circuit board (FPCB)
+     connected with the connecting area, and a first module mounted on a first
+     surface of the FPCB, where the connecting area is bent such that the
+     first module is apart from the display to face the display.
+
+Inventors: Kim; Hyung Dal (Gyeonggi-do, KR), Kwon; Oh Hyuck (Gyeonggi-do, KR), Kang; Han Vit (Gyeonggi-do, KR), Kim; Jun Young (Gyeonggi-do, KR), Kim; Moon Kyeong (Gyeonggi-do, KR), Kim; Sang Seob (Gyeonggi-do, KR), Park; Jung Sik (Gyeonggi-do, KR), Jung; Hee Seok (Gyeonggi-do, KR), Cho; Sung (Gyeonggi-do, KR), Shin; Heung Sik (Gyeonggi-do, KR), Oh; Ji Woong (Seoul, KR)
+Applicant:
+Name City State Country Type
+
+Samsung Electronics Co., Ltd.
+Gyeonggi-do
+N/A
+KR
+Assignee: Samsung Electronics Co., Ltd (KR)
+Family ID: 1000004851950
+Appl. No.: 16/414,076
+Filed: May 16, 2019
+
+12	Ring-shaped devices with voice integration
+
+Abstract
+
+ Systems, methods, and computer-readable media are disclosed for
+     ring-shaped devices with voice integration. In one embodiment, an example
+     device may include an antenna element that at least partially forms an
+     outer surface of the ring-shaped device, an outer shell coupled to the
+     antenna element, an inner shell coupled to the outer shell, a curved
+     battery disposed along a first side of the ring-shaped device, and a
+     flexible printed circuit assembly coupled to the curved battery and
+     disposed along a second side of the ring shaped device.
+
+Inventors: Graber; Sarah (Seattle, WA), Han; Sun Joo (San Francisco, CA), Wildner; Bernhard (San Francisco, CA), Napoles; Adrian (Bellevue, WA), Mattsson; Ulf Jan-Ove (Campbell, CA), Varela; Felipe (San Jose, CA), Chua; Albert John Yu Sam (San Jose, CA), Arnold; Brad (Redmond, WA)
+Applicant:
+Name City State Country Type
+
+Amazon Technologies, Inc.
+Seattle
+WA
+US
+Assignee: Amazon Technologies, Inc. (Seattle, WA)
+Family ID: 1000004851945
+Appl. No.: 16/208,200
+Filed: December 3, 2018
+
+13	Composite chip component, circuit assembly and electronic apparatus
+
+Abstract
+
+ The composite chip component includes: plurality of chip elements which
+     are disposed so as to be mutually spaced apart upon a common substrate,
+     and which have mutually different functions; and a pair of electrodes
+     which, in each of the chip elements, are formed on the surface of the
+     substrate. As a result, it is possible to reduce the bond area
+     (footprint) for the mounting substrate, and therefore, it is possible to
+     provide a composite chip component capable of achieving efficiency of
+     mounting operation.
+
+Inventors: Tamagawa; Hiroshi (Kyoto, JP), Niino; Koichi (Kyoto, JP), Nukaga; Eiji (Kyoto, JP), Watanabe; Keishi (Kyoto, JP)
+Applicant:
+Name City State Country Type
+
+ROHM CO., LTD.
+Kyoto
+N/A
+JP
+Assignee: ROHM CO., LTD. (Kyoto, JP)
+Family ID: 1000004851942
+Appl. No.: 16/286,503
+Filed: February 26, 2019
+
+14	Composite printed circuit board and laundry treatment apparatus having the same
+
+Abstract
+
+ Disclosed is a composite printed circuit board including a first printed
+     circuit board (PCB) having a first circuit pattern mounted thereon, and a
+     second PCB having a second circuit pattern mounted thereon, and the first
+     PCB penetrates and is coupled to the second PCB so that the first circuit
+     pattern is electrically connected to the second circuit pattern.
+
+Inventors: Lee; Sunil (Seoul, KR)
+Applicant:
+Name City State Country Type
+
+LG ELECTRONICS INC.
+Seoul
+N/A
+KR
+Assignee: LG ELECTRONICS INC. (Seoul, KR)
+Family ID: 1000004851936
+Appl. No.: 16/103,054
+Filed: August 14, 2018
+
+15	Metal-base printed circuit board
+
+Abstract
+
+ A highly thermally conductive printed circuit board prevents
+     electrochemical migration by inhibiting elution of copper ions. The
+     printed circuit board is a metal-base printed circuit board including a
+     metal base plate having an insulating resin layer and a copper foil layer
+     stacked thereon in this order. In the printed circuit board, the
+     insulating resin layer contains a first inorganic filler made of
+     inorganic particles having particle diameters of 0.1 nm to 600 nm with an
+     average particle diameter (D.sub.50) of 1 nm to 300 nm, and a second
+     inorganic filler made of inorganic particles having particle diameters of
+     100 nm to 100 .mu.m with an average particle diameter (D.sub.50) of 500
+     nm to 20 .mu.m, and the first inorganic filler and the second inorganic
+     filler are uniformly dispersed in the insulating resin layer.
+
+Inventors: Ohki; Yoshimichi (Tokyo, JP), Hirose; Yuichi (Tokyo, JP), Wada; Genta (Tokyo, JP), Tanaka; Toshikatsu (Tokyo, JP), Okamoto; Kenji (Kanagawa, JP)
+Applicant:
+Name City State Country Type
+
+Waseda University
+Fuji Electric Co., Ltd.
+Tokyo
+Kanagawa
+N/A
+N/A
+JP
+JP
+Assignee: Waseda University (JP)
+Fuji Electric Co., Ltd. (JP)
+Family ID: 1000004851935
+Appl. No.: 15/354,668
+Filed: November 17, 2016
+
+16	Flexible circuit structures including connection arrangement connected to load measurement lead
+
+Abstract
+
+ Some aspects of this disclosure generally are related to improving the
+     robustness of a flexible circuit structure, for example, by providing
+     fault-tolerant electrical pathways for flow of electric current through
+     the flexible circuit structure. In some embodiments, such fault tolerance
+     is enhanced by way of a conductive mesh provided between an adjacent pair
+     of resistive elements. Some aspects are related to improved voltage,
+     current, or voltage and current measurement associated with various pairs
+     of adjacent resistive elements at least when the various pairs have
+     differing distances between them.
+
+Inventors: Weinkam; Daniel Robert (Coquitlam, CA), Miller-Tait; Shane Fredrick (North Vancouver, CA), Lopes; Fernando Luis de Souza (Delta, CA)
+Applicant:
+Name City State Country Type
+
+Kardium Inc.
+Burnaby
+N/A
+CA
+Assignee: KARDIUM INC. (Burnaby, CA)
+Family ID: 1000004851932
+Appl. No.: 16/730,213
+Filed: December 30, 2019
+
+17	Plasma arc cutting system, including nozzles and other consumables, and related operational methods
+
+Abstract
+
+ A nozzle for a liquid-cooled plasma arc torch is provided. The nozzle
+     includes a thermally conductive body having a distal end, a proximal end,
+     and a longitudinal axis extending therethrough. The nozzle also includes
+     a plasma arc exit orifice at the distal end of the thermally conductive
+     body. The nozzle additionally includes a cooling waist located
+     circumferentially about an exterior surface of the thermally conductive
+     body. The cooling waist includes a liquid inlet slope, a liquid outlet
+     slope and a heat exchange region between the liquid inlet slope and the
+     liquid outlet slope. The heat exchange region extends substantially
+     parallel to the longitudinal axis, and the liquid inlet slope and the
+     liquid outlet slope are oriented generally perpendicular to the
+     longitudinal axis.
+
+Inventors: Peters; John (Canaan, NH), Currier; Brian J. (Newport, NH), Mitra; Madhura S. (Lebanon, NH), Mitra; Soumya (Lebanon, NH)
+Applicant:
+Name City State Country Type
+
+Hypertherm, Inc.
+Hanover
+NH
+US
+Assignee: Hypertherm, Inc. (Hanover, NH)
+Family ID: 1000004851928
+Appl. No.: 15/484,182
+Filed: April 11, 2017
+
+18	Devices for controlling non-thermal plasma emitters
+
+Abstract
+
+ An array of non-thermal plasma emitters is controlled to emit plasma
+     based on application of an electric current at desired frequencies and a
+     controlled power level. A power supply for an array controller includes a
+     transformer that operates at the resonant frequency of the combined
+     capacitance of the array and the cable connecting the array to the power
+     supply. The power into the array is monitored by the controller and can
+     be adjusted by the user. The controller monitors reflected power
+     characteristics, such as harmonics of the alternating current, to
+     determine initiation voltage of the plasma and/or resonant frequency
+     plasma emitters.
+
+Inventors: Eckert; Bradley N. (Chandler, AZ), Truong; Huan (Chandler, AZ), Eckert; Bryon K. (Chandler, AZ)
+Applicant:
+Name City State Country Type
+
+ChiScan Holdings, LLC
+Las Vegas
+NV
+US
+Assignee: CHISCAN HOLDING, LLC (Las Vegas, NV)
+Family ID: 1000004851927
+Appl. No.: 16/233,004
+Filed: December 26, 2018
+
+19	Target trajectory metrology in an extreme ultraviolet light source
+
+Abstract
+
+ A method is described for measuring a moving property of a target. The
+     method includes: forming a remaining plasma that at least partially
+     coincides with an extended target region, the remaining plasma being a
+     plasma formed from an interaction between a prior target and a prior
+     radiation pulse in a target space; releasing a current target along a
+     trajectory toward the target space that is at least partly overlapping
+     the extended target region; determining one or more moving properties of
+     the current target when the current target is within the extended target
+     region and after a prior and adjacent target has interacted with a prior
+     radiation pulse in the target space; and if any of the determined one or
+     more moving properties of the current target are outside an acceptable
+     range, then adjusting one or more characteristics of a radiation pulse
+     directed toward the target space.
+
+Inventors: Price; Michael Leslie (Escondido, CA), Stinson; Cory Alan (San Diego, CA), Mitry; Mark Joseph (San Diego, CA)
+Applicant:
+Name City State Country Type
+
+ASML Netherlands B.V.
+Veldhoven
+N/A
+NL
+Assignee: ASML Netherlands B.V. (Veldhoven, NL)
+Family ID: 1000004851926
+Appl. No.: 16/552,760
+Filed: August 27, 2019
+
+20	Target trajectory metrology in an extreme ultraviolet light source
+
+Abstract
+
+ A method is described for measuring a moving property of a target. The
+     method includes: forming a remaining plasma that at least partially
+     coincides with an extended target region, the remaining plasma being a
+     plasma formed from an interaction between a prior target and a prior
+     radiation pulse in a target space; releasing a current target along a
+     trajectory toward the target space that is at least partly overlapping
+     the extended target region; determining one or more moving properties of
+     the current target when the current target is within the extended target
+     region and after a prior and adjacent target has interacted with a prior
+     radiation pulse in the target space; and if any of the determined one or
+     more moving properties of the current target are outside an acceptable
+     range, then adjusting one or more characteristics of a radiation pulse
+     directed toward the target space.
+
+Inventors: Price; Michael Leslie (Escondido, CA), Stinson; Cory Alan (San Diego, CA), Mitry; Mark Joseph (San Diego, CA)
+Applicant:
+Name City State Country Type
+
+ASML Netherlands B.V.
+Veldhoven
+N/A
+NL
+Assignee: ASML Netherlands B.V. (Veldhoven, NL)
+Family ID: 1000004851925
+Appl. No.: 16/174,464
+Filed: October 30, 2018
+
+21	Apparatus for and method of source material delivery in a laser produced plasma EUV light source
+
+Abstract
+
+ A device and method are disclosed in which a source material delivery
+     system can be reoriented so that the path of the source material is not
+     directly towards an irradiation region in operating conditions in which
+     the path is expected to be unpredictable. A shroud provided to protect
+     the flow of source material from being disrupted is segmented so with one
+     part of the shroud being movable with respect to another part of the
+     shroud so that the movable part can avoid interfering with the path of
+     the source material when it is not directly towards the irradiation
+     region.
+
+Inventors: Ershov; Alexander Igorevich (San Diego, CA), Evans; David (San Diego, CA), Graham; Matthew (San Diego, CA)
+Applicant:
+Name City State Country Type
+
+ASML Netherlands B.V.
+Veldhoven
+N/A
+NL
+Assignee: ASML NETHERLANDS B.V. (Veldhoven, NL)
+Family ID: 1000004851924
+Appl. No.: 16/274,378
+Filed: February 13, 2019
+
+22	User interface for a control device
+
+Abstract
+
+ A control device may be configured to control an amount of power
+     delivered to one or more electrical loads and provide various feedback
+     associated with the control device and/or the electrical loads. The
+     control device may be a wall-mounted device or a battery-powered remote
+     control device. The feedback may indicate the amount of power delivered
+     to the one or more electrical loads. The feedback may also indicate a low
+     battery condition. The control device may include a light bar and/or one
+     or more indicator lights for providing the feedback.
+
+Inventors: Dimberg; Chris (Easton, PA), Killo; Jason C. (Emmaus, PA), McDonald; Matthew Philip (Phoenixville, PA), Twaddell; Daniel L. (Allentown, PA)
+Applicant:
+Name City State Country Type
+
+Lutron Technology Company LLC
+Coopersburg
+PA
+US
+Assignee: Lutron Technology Company LLC (Coopersburg, PA)
+Family ID: 1000004851920
+Appl. No.: 15/613,086
+Filed: June 2, 2017
+
+23	Adaptive lighting based on skill level
+
+Abstract
+
+ Methods, systems, and apparatus are described herein for adjusting one or
+     more lighting properties based on skill level of one or more players of a
+     game. In various embodiments, (502) a skill disparity between at least
+     two players of a game may be identified (502). A lighting scheme may be
+     selected (504) to reduce an impact the skill disparity has on an outcome
+     of the game. One or more light sources (104, 304) may be operated (508)
+     to emit light in accordance with the lighting scheme.
+
+Inventors: Broers; Harry ('S-Hertogenbosch, NL), Rajagopalan; Ruben (Neuss, DE)
+Applicant:
+Name City State Country Type
+
+SIGNIFY HOLDING B.V.
+Eindhoven
+N/A
+NL
+Assignee: SIGNIFY HOLDING B.V. (Eindhoven, NL)
+Family ID: 1000004851918
+Appl. No.: 16/321,062
+Filed: July 12, 2017
+PCT Filed: July 12, 2017
+PCT No.: PCT/EP2017/067549
+371(c)(1),(2),(4) Date: January 28, 2019
+PCT Pub. No.: WO2018/019590
+PCT Pub. Date: February 01, 2018
+
+24	Two-terminal integrated circuits with time-varying voltage-current characteristics including phased-locked power supplies
+
+Abstract
+
+ A two-terminal IC chip and method thereof. For example, a two-terminal IC
+     chip includes a first chip terminal and a second chip terminal. A first
+     terminal voltage is a voltage of the first chip terminal, a second
+     terminal voltage is a voltage of the second chip terminal, and a chip
+     voltage is equal to a difference between the first terminal voltage and
+     the second terminal voltage. The chip is configured to allow a chip
+     current to flow into the chip at the first chip terminal and out of the
+     chip at the second chip terminal, or to flow into the chip at the second
+     chip terminal and out of the chip at the first chip terminal. The chip
+     current is larger than or equal to zero in magnitude. The chip is further
+     configured to change a relationship between the chip voltage and the chip
+     current with respect to time. The chip is an integrated circuit, and the
+     chip does not include any additional chip terminal other than the first
+     chip terminal and the second chip terminal.
+
+Inventors: Luo; Qiang (Shanghai, CN), Zhu; Liqiang (Shanghai, CN), Chen; Zhiliang (Shanghai, CN), Fang; Lieyi (Shanghai, CN)
+Applicant:
+Name City State Country Type
+
+ON-BRIGHT ELECTRONICS (SHANGHAI) CO., LTD.
+Shanghai
+N/A
+CN
+Assignee: On-Bright Electronics (Shanghai) Co., Ltd. (Shanghai, CN)
+Family ID: 1000004851916
+Appl. No.: 15/836,588
+Filed: December 8, 2017
+
+25	Configurable lighting system
+
+Abstract
+
+ A luminaire can include a power supply that receives AC mains power from
+     a power source and delivers intermediate power, and can also include a
+     lumen control module coupled to the power supply, where the lumen control
+     module receives the intermediate power from the power source. The lumen
+     control module can include at least one first switch that has multiple
+     positions, and multiple resistors coupled to the at least one first
+     switch, where each position of the at least one first switch corresponds
+     to a resistance of the resistors, where the intermediate power received
+     by the resistors is translated to a current level of a plurality of
+     current levels based on the resistance. The luminaire can also include at
+     least one light source coupled to the lumen control module, where the at
+     least one light source emits a lumen output based on the current level
+     received from the lumen control module.
+
+Inventors: Doheny; Seth (Newman, GA), Pyshos; Steven Walter (Peachtree City, GA)
+Applicant:
+Name City State Country Type
+
+Eaton Intelligent Power Limited
+Dublin
+N/A
+IE
+Assignee: Eaton Intelligent Power Limited (Dublin, IE)
+Family ID: 1000004851915
+Appl. No.: 16/708,016
+Filed: December 9, 2019
+
+26	Dimmable universal voltage LED power supply with regenerating power source circuitry and non-isolated load
+
+Abstract
+
+ A light-emitting diode (LED) lighting device has an LED and a power
+     supply including an inductor coupled to the LED. A cathode of the LED is
+     coupled to the inductor opposite an anode of the LED. The inductor is
+     coupled for receiving a first power signal. A transistor includes a
+     conduction terminal coupled to the inductor to enable current through the
+     inductor. A current from the first power signal is switched to generate a
+     second power signal. A first diode includes an anode coupled to the
+     inductor opposite the cathode of the LED. A controller includes a first
+     terminal coupled to a cathode of the first diode and a second terminal
+     coupled to a control terminal of the transistor. A zener diode is coupled
+     to the first terminal of the controller. A capacitor is coupled between
+     the first diode and inductor. A second diode is coupled to the first
+     diode.
+
+Inventors: Chou; Der Jeou (Mesa, AZ), Chan; Ming Yi (Taipei, TW)
+Applicant:
+Name City State Country Type
+
+Enertron, Inc.
+Gilbert
+AZ
+US
+Assignee: Enertron, Inc. (Gilbert, AZ)
+Family ID: 1000004851913
+Appl. No.: 15/260,708
+Filed: September 9, 2016
+
+27	Apparatus and method for defrosting and/or cooking foods
+
+Abstract
+
+ An apparatus for defrosting or cooking foods, the apparatus including
+     both radio frequency dielectric heating means and an induction heating
+     means. The radio frequency dielectric heating means includes at least two
+     electrodes positioned at a treatment zone, and a device for applying,
+     between the electrodes, a difference in electric potential which is
+     variable with a frequency between 1 MHz and 300 MHz. The induction
+     heating means is electromagnetically coupled to at least one of the
+     electrodes which is at least partly made of ferromagnetic material, such
+     that the electrode transmits heat to the food.
+
+Inventors: Dughiero; Fabrizio (Padua, IT), Bullo; Marco (Scorze, IT), Baccara; Andrea (Paris, FR)
+Applicant:
+Name City State Country Type
+
+ILLINOIS TOOL WORKS, INC.
+Glenview
+IL
+US
+Assignee: ILLINOIS TOOL WORKS INC. (Glenview, IL)
+Family ID: 1000004851912
+Appl. No.: 15/551,070
+Filed: February 12, 2016
+PCT Filed: February 12, 2016
+PCT No.: PCT/IB2016/050759
+371(c)(1),(2),(4) Date: August 15, 2017
+PCT Pub. No.: WO2016/132260
+PCT Pub. Date: August 25, 2016
+
+28	Light emitter devices, optical filter structures and methods for forming light emitter devices and optical filter structures
+
+Abstract
+
+ A light emitter device contains a heater structure configured to emit
+     light if a predefined current flows through the heater structure. The
+     heater structure is arranged at a heater carrier structure. The light
+     emitter device contains an upper portion of a cavity located vertically
+     between the heater carrier structure and a cover structure. The light
+     emitter device contains a lower portion of the cavity located vertically
+     between the heater carrier structure and at least a portion of a carrier
+     substrate. The heater carrier structure contains a plurality of holes
+     connecting the upper portion of the cavity and the lower portion of the
+     cavity. A pressure within the cavity is less than 100 mbar.
+
+Inventors: Kautzsch; Thoralf (Dresden, DE), Froehlich; Heiko (Radebeul, DE), Rudolph; Uwe (Dresden, DE), Scire; Alessia (Dresden, DE), Stegemann; Maik (Pesterwitz, DE), Vogt; Mirko (Dresden, DE)
+Applicant:
+Name City State Country Type
+
+Infineon Technologies AG
+Neubiberg
+N/A
+DE
+Assignee: INFINEON TECHNOLOGIES AG (Neubiberg, DE)
+Family ID: 1000004851908
+Appl. No.: 15/461,810
+Filed: March 17, 2017
+
+29	Electronic oven with infrared evaluative control
+
+Abstract
+
+ A disclosed computer-implemented method for heating an item in a chamber
+     of an electronic oven towards a target state includes heating the item
+     with a set of applications of energy to the chamber while the electronic
+     oven is in a respective set of configurations. The set of applications of
+     energy and respective set of configurations define a respective set of
+     variable distributions of energy in the chamber. The method also includes
+     sensing sensor data that defines a respective set of responses by the
+     item to the set of applications of energy. The method also includes
+     generating a plan to heat the item in the chamber. The plan is generated
+     by a control system of the electronic oven and uses the sensor data.
+
+Inventors: Pereira; Arvind Antonio de Menezes (Milpitas, CA), Speiser; Leonard Robert (Los Altos, CA), Leindecker; Nick C. (Portola Valley, CA)
+Applicant:
+Name City State Country Type
+
+Markov LLC
+Los Altos
+CA
+US
+Assignee: Markov LLC (Los Altos, unknown)
+Family ID: 1000004851907
+Appl. No.: 15/833,086
+Filed: December 6, 2017
+
+30	Real-time relay of wireless communications
+
+Abstract
+
+ Exemplary embodiments include a system having a first wireless audio
+     output device and a second wireless audio output device. One of the first
+     or second audio output devices is configured to one of connect as a slave
+     to a source device in a first piconet and connect as a master to the
+     other one of the first or second audio output devices in a second
+     piconet. The one of the first or second wireless audio output devices
+     determines whether an audio packet transmitted by the source device via
+     the first piconet was received by the first wireless audio output device
+     and the second wireless audio output device, and, when at least one of
+     the first wireless audio output device or the second wireless audio
+     output device did not receive the audio packet, the audio packet is
+     exchanged between the first and second wireless audio output devices via
+     the second piconet.
+
+Inventors: Li; Lei (Sunnyvale, CA), Chen; Xiaojun (San Jose, CA), Reddy; Vusthla Sunil (Cupertino, CA), Agboh; Peter M. (Burlingame, CA), Narang; Mohit (Cupertino, CA)
+Applicant:
+Name City State Country Type
+
+APPLE INC.
+Cupertino
+CA
+US
+Assignee: Apple Inc. (Cupertino, CA)
+Family ID: 1000004851904
+Appl. No.: 16/238,750
+Filed: January 3, 2019
+
+31	Facilitating wireless connections using a BLE beacon
+
+Abstract
+
+ Systems and methods are provided for facilitating wireless connections
+     using a Bluetooth.RTM. low energy (BLE) beacon installed at a location.
+     In particular, the provided systems and methods may facilitate wireless
+     connections by providing credentials for accessing a wireless network at
+     the location when a user checks in to the location using a user device in
+     communication with the BLE beacon. The provided systems and methods may
+     further facilitate wireless connections by establishing a Wi-Fi Direct
+     connection with the user device to quickly provide content to the user
+     device while at the location.
+
+Inventors: Granbery; John Hastings (Los Altos, CA)
+Applicant:
+Name City State Country Type
+
+PAYPAL, INC.
+San Jose
+CA
+US
+Assignee: PAYPAL, INC. (San Jose, CA)
+Family ID: 1000004851903
+Appl. No.: 16/149,048
+Filed: October 1, 2018
+
+32	Method and apparatus for selecting reception antenna set of user terminal
+
+Abstract
+
+ An electronic device is provided. The electronic device includes a
+     plurality of antennas, a radio frequency (RF) circuit configured to
+     electrically connect with the plurality of antennas, and a processor. The
+     plurality of antennas include a first main antenna, a first sub-antenna,
+     a second main antenna, and a second sub-antenna. The processor controls
+     the RF circuit to operate in a first mode of receiving a signal using the
+     first main antenna and the first sub-antenna. The processor controls the
+     RF circuit to operate in a second mode different from the first mode to
+     receive the signal based on a signal state.
+
+Inventors: Lee; Hyoungjoo (Suwon-si, KR), Kim; Kee Hoon (Seoul, KR), Lee; Byung Gil (Hwaseong-si, KR), Lim; Chaiman (Seoul, KR)
+Applicant:
+Name City State Country Type
+
+Samsung Electronics Co., Ltd.
+Suwon-si, Gyeonggi-do
+N/A
+KR
+Assignee: Samsung Electronics Co., Ltd. (Suwon-si, KR)
+Family ID: 1000004851900
+Appl. No.: 16/298,729
+Filed: March 11, 2019
+
+33	Communication method and device
+
+Abstract
+
+ Embodiments of the present disclosure relate to the field of
+     communications technologies, and in particular, to a communication method
+     and a device. Second user equipment executes some tasks required for
+     communication between first user equipment and a network device, and the
+     first user equipment properly communicates with the second user
+     equipment. In this way, energy consumption of the first user equipment
+     required for communication with the network device can be reduced,
+     thereby prolonging a standby time and improving user experience.
+
+Inventors: Chang; Junren (Beijing, CN), Feng; Shulan (Beijing, CN)
+Applicant:
+Name City State Country Type
+
+Huawei Technologies Co., Ltd.
+Shenzhen
+N/A
+CN
+Assignee: Huawei Technologies Co., Ltd. (Shenzhen, CN)
+Family ID: 1000004851899
+Appl. No.: 16/023,333
+Filed: June 29, 2018
+
+
