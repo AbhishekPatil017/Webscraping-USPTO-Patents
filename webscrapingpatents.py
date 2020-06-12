@@ -37,7 +37,7 @@ for page in range(1,pages):
       soup=BeautifulSoup(driver.page_source)
      # patent_number = soup.find('font')
   
-# i wanted to get patent_number,paragraph,description,abstract and application information.
+# getting patent_number,paragraph,description,abstract and application information.
 
       patent_number=driver.find_element_by_xpath('/html/body/table[1]/tbody/tr/td[2]/font[1]/strong')
       paragraph=soup.find('p')
